@@ -1,0 +1,49 @@
+.bg{
+    background-image: url(images/fine-decor-wallpapers-quartz-cream-trees-wallpaper-2035927285803_1024x.webp);
+}
+p{
+    font-family: monospace;
+    font-size: 20px;
+}
+#drop:hover{
+    background-color: cornsilk;
+}
+.navbar{
+    background-color: floralwhite;
+    border: 1px solid black;
+    padding: 10px;
+    font-size: 18px;
+}
+.img-thumbnail{
+    width: 280px;
+    height: 350px;
+    border: 1px solid black;
+}
+.title{
+    color: black;
+    font-family: fantasy;
+}
+#book{
+    padding-left: 40px;
+}
+#content{
+    padding-right: 250px;
+    padding-left: 250px;
+}
+#background{
+    background: url(images/book.jpeg) no-repeat;
+    height: 100vh;
+    width: 100%;
+    background-size: 104%;
+    
+}
+#welcome{
+    color: black;
+    font-size: 40px;
+    font-family: monospace;
+    text-align: center;
+    background-color: #ffffff;
+    border: 1px solid black;
+    opacity: 0.6;
+    filter: alpha(opacity=60);
+}
